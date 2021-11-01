@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data Science from Coursera, Udemy, Data Camp, Udacity and O'Reilly. 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning. 
 - 📫 How to reach me 
-https://www.linkedin.com/in/bakari-hamisi-o-b82a00189
-<a href="https://www.linkedin.com/in/bakari-hamisi-o-b82a00189" class="social-icon si-rounded si-small si-linkedin">
+<a href="https://www.linkedin.com/in/bakari-hamisi-o-b82a00189" class="social-icon si-rounded si-small si-linkedin" target="_blank">
     <i class="icon-linkedin"></i>
     <i class="icon-linkedin"></i>
  </a>
