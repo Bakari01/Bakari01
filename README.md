@@ -1,4 +1,4 @@
-#👋 Hi, I’m Bakari Hamisi Ojiambo 
+# Hi, 👋 I’m Bakari Hamisi Ojiambo 
 - 👀 I’m interested in Data Science, Machine Learning and the broader field of Artificial Intelligence. 
 - 🌱 I’m currently learning Data Science from Coursera, Udemy, Data Camp, Udacity and O'Reilly. 
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning. 
