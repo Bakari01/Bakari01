@@ -8,7 +8,7 @@
     
     ~ <a href="https://twitter.com/Bakari_Oj?t=tDNwCssAabRrj36KqHpaiw&s=09">Twitter</a>
     
-    ~ <a href="https://www.kaggle.com/">Kaggle</a>
+    ~ <a href="https://www.kaggle.com/bakarihamisio">Kaggle</a>
     
 <!---
 Bakari01/Bakari01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
