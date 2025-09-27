@@ -21,7 +21,7 @@ Replace any remaining placeholders if you want to customize further.
     <a href="https://twitter.com/Bakari_Oj" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="28" alt="Twitter" />
     </a>
-    <a href="mailto:bakari.hamisi@example.com" target="_blank">
+    <a href="mailto:bakarihamisi027@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Email&logo=Gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="28" alt="Email" />
     </a>
   </p>
