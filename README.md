@@ -1,95 +1,134 @@
+<!--
+Epic GitHub Profile README for Bakari Hamisi (Bakari01)
+Replace any remaining placeholders if you want to customize further.
+-->
+
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="welcome gif" />
+  <img src="banner.svg" alt="hero banner" height="180"/>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bakari-hamisi-o-b82a00189" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/Bakari_Oj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
+  <h1>Hi, I'm <span style="color:#2b7a78">Bakari Hamisi</span> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="26"/></h1>
+  <h3>Data Scientist • Machine Learning Engineer • Researcher</h3>
+  <p><em>Turning data into decisions — building models that scale and systems that ship.</em></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/bakari-hamisi-o-b82a00189" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/Bakari_Oj" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="28" alt="Twitter" />
+    </a>
+    <a href="mailto:bakari.hamisi@example.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=Gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="28" alt="Email" />
+    </a>
+  </p>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bakari01.Bakari01&left_color=gray&right_color=blue" alt="visitor badge"/>
+## ⚡ Quick snapshot
+
+- 📍 Based in **Kenya** — building ML systems with a global mindset.
+- 🔬 Passionate about **Deep Learning, Reinforcement Learning, and Algorithmic rigor**.
+- 🚀 I ship research + production: prototypes, papers, and reproducible pipelines.
+
+---
+
+## 🧭 What I build
+
+| Project | What it does | Why it matters |
+|---|---:|---|
+| **[Project-Alpha](https://github.com/Bakari01/project-alpha)** | End-to-end ML pipeline for anomaly detection | Detects issues early and saves ops costs |
+| **[VisionLab](https://github.com/Bakari01/visionlab)** | Computer vision model + data-augmentation stack | Robust accuracy on low-data problems |
+| **[RL-Playground](https://github.com/Bakari01/rl-playground)** | Reinforcement Learning environments & agents | Fast experimentation loop for policies |
+
+> Tip: Pin these repos in your GitHub profile to showcase them front-and-center.
+
+---
+
+## 🛠️ Languages & Tools
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="Postgres"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
 </div>
 
 ---
 
-<h1 align="center">Hey there 👋, I'm Bakari Hamisi</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Research Enthusiast</h3>
-
----
-
-### 👨‍💻 About Me  
-
-- 🔭 Currently working as a **Data Scientist & Machine Learning Engineer**  
-- 📚 Deep diving into **Deep Learning, Reinforcement Learning, and Algorithms**  
-- ⚡ Outside tech: I love **DIY projects, reading books, exploring ML research papers, and working out**  
-- 🌍 Based in **Kenya** with a global outlook on solving problems through data  
-
----
-
-### 🛠️ Languages & Tools  
+## 🔥 Highlights & Metrics
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" />
+
+[![Bakari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bakari01&theme=transparent&hide_border=true&show_icons=true)](https://github.com/Bakari01)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakari01&layout=compact&theme=transparent&hide_border=true)](https://github.com/Bakari01)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bakari01&theme=dark&hide_border=true&border_radius=6)](https://github.com/Bakari01)
+
 </div>
 
 ---
 
-### 🔥 My GitHub Stats  
+## 🧾 Research & Writing
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bakari01&theme=dark&hide_border=true&border_radius=8" height="180" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakari01&show_icons=true&theme=dark&hide_border=true&border_radius=8" height="180" alt="stats graph"/>
-</div>
+- 📄 **Preprints:** *Improving RL sample efficiency with contextual priors* — (link coming soon)
+- ✍️ Blog: Selected deep dives and tutorials on model interpretability and reproducibility.
 
----
-
-### 📈 Top Languages  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakari01&layout=compact&theme=dark&hide_border=true&border_radius=8" height="160" alt="top languages graph"/>
-</div>
+If you want, I can add an auto-updating “latest blog post” snippet (via RSS → GitHub Actions).
 
 ---
 
-### 🚀 What Drives Me  
+## 💼 For recruiters & collaborators
 
-💡 I believe in **using data-driven insights** to solve real-world problems.  
-📊 My passion lies in **research, applied AI, and building scalable ML systems**.  
-🌱 I’m on a mission to keep learning, sharing knowledge, and growing as a **global data professional**.  
+- **Open to:** Research collaborations, ML engineering roles, speaking at conferences.
+- **Availability:** Open to remote and hybrid opportunities.
+- **Preferred contact:** Drop a message on LinkedIn or email me at `bakari.hamisi@example.com`.
+
+---
+
+## 🌟 Fun & Personality
+
+- ☕ Coffee-powered coder. DIY tinkerer. Gym regular.
+- 🎧 Current read: *Deep Learning* (Goodfellow) — and an ML research paper a week.
+
+---
+
+## 🧩 How this README works (setup)
+
+1. Create a repo named exactly as your GitHub username (`Bakari01/Bakari01`).
+2. Add this `README.md` and commit.
+3. For dynamic cards (stats, streaks): use `https://github-readme-stats.vercel.app` and `streak-stats.demolab.com` as shown above. See `anuraghazra/github-readme-stats` for options.
+4. Use GitHub Actions to keep content fresh (age, recent activity, latest blog posts). Check `abhisheknaiidu/awesome-github-profile-readme` for action templates.
+
+---
+
+## 📌 Want it even more 🔥?
+
+I included an animated banner SVG (`banner.svg`) and a GitHub Actions workflow that can update this README daily using your blog RSS (if provided) and your GitHub activity. See `.github/workflows/update-readme.yml` and `scripts/update_readme.py`.
+
+---
+
+### Latest blog post (auto-updates with GitHub Action)
+<!--BLOG_START-->
+_No blog RSS configured yet. To enable: add a repo secret named `BLOG_RSS` with your blog RSS URL._
+<!--BLOG_END-->
+
+### Recent activity (auto-updates with GitHub Action)
+<!--ACTIVITY_START-->
+_No recent activity snapshot yet. When the Action runs it will populate this section._
+<!--ACTIVITY_END-->
 
 ---
 
 <div align="center">
-  <i>“Data is the new oil, but intelligence is the engine that drives it.”</i>
+  <b>Enjoyed this? ⭐ Star the README and let's build something amazing.</b>
+  <p><sub>Made with ❤️ for Bakari — customize the placeholders and pin your best projects.</sub></p>
 </div>
