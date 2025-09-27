@@ -1,6 +1,6 @@
 <!--
 Epic GitHub Profile README for Bakari Hamisi (Bakari01)
-Replace any remaining placeholders if you want to customize further.
+Updated with user's real email and project links.
 -->
 
 <div align="center">
@@ -41,9 +41,9 @@ Replace any remaining placeholders if you want to customize further.
 
 | Project | What it does | Why it matters |
 |---|---:|---|
-| **[Project-Alpha](https://github.com/Bakari01/project-alpha)** | End-to-end ML pipeline for anomaly detection | Detects issues early and saves ops costs |
-| **[VisionLab](https://github.com/Bakari01/visionlab)** | Computer vision model + data-augmentation stack | Robust accuracy on low-data problems |
-| **[RL-Playground](https://github.com/Bakari01/rl-playground)** | Reinforcement Learning environments & agents | Fast experimentation loop for policies |
+| **[Med Cost Prediction](https://github.com/Bakari01/Med_Cost_Prediction.git)** | End-to-end medical cost prediction model and pipeline | Helps forecast patient costs for better resource planning |
+| **[Knee Component Sizing Prediction](https://github.com/Bakari01/Predicting-Component-Sizing-in-Primary-Total-Knee-Arthroplasty-using-Demographic-Variables.git)** | Predictive model for component sizing in knee arthroplasty | Aids pre-operative planning and improves outcomes |
+| **[TED Talks Segmentation](https://github.com/Bakari01/TED-Talks-Segmentation.git)** | Audio/video segmentation and topic modeling for TED talks | Automates content tagging and retrieval for research |
 
 > Tip: Pin these repos in your GitHub profile to showcase them front-and-center.
 
@@ -90,7 +90,7 @@ If you want, I can add an auto-updating “latest blog post” snippet (via RSS 
 
 - **Open to:** Research collaborations, ML engineering roles, speaking at conferences.
 - **Availability:** Open to remote and hybrid opportunities.
-- **Preferred contact:** Drop a message on LinkedIn or email me at `bakari.hamisi@example.com`.
+- **Preferred contact:** Drop a message on LinkedIn or email me at `bakarihamisi027@gmail.com`.
 
 ---
 
